@@ -1,0 +1,14 @@
+//nesting
+
+nav{
+    background-color: $mainColor;
+    p{
+     color: $keyColor;
+    }
+}
+
+.anuncio__box--white{
+    text-align: center;
+    background-color: white;
+    font-size: 1.9rem;
+}
